@@ -1,0 +1,58 @@
+body{
+    background:rgba(95, 219, 188, 0.849);
+    color:black;
+    font-size:30px;
+    font-weight: 800;
+    text-align:center;
+    margin-top:100px;
+}
+
+.all{
+    font-weight:900;
+    margin-top:150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.left{
+    display:flex;
+    justify-content:start;
+
+    img{
+        display:block;
+        width:10px;
+        height:auto
+    }
+}
+
+.right{
+    display:flex;
+    justify-content:end;
+
+    img{
+        display:block;
+        width:10px;
+        height:auto
+    }
+}
+
+/*.left{
+    
+    display:inline;
+
+    img{
+        display:block;
+        width:20px;
+    }
+}
+
+.right{
+    
+    display:inline;
+
+    img{
+        display:block;
+        width:20px;
+    }
+}*/
